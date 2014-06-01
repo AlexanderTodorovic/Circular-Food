@@ -16,6 +16,8 @@ The source code does not contain a solution and was written to illustrate the ma
 2. Probably the question in 1. can be approached with parallel/distributed computing. However which programming language/technology should be used?
 	* Is a Hadoop distribution the best tool?
 
-3. Which visualization software would be appropriate? Is [Gnuplot](http://www.gnuplot.info), [matplotlib](http://matplotlib.org),
-[D3.js Data-Driven Documents](http://d3js.org), [ggplot2](http://ggplot2.org/) the right visualization tool?
+3. Which visualization software would be appropriate?
+
+	* Should I use [Gnuplot](http://www.gnuplot.info), [matplotlib](http://matplotlib.org), [D3.js Data-Driven Documents](http://d3js.org),
+	[ggplot2](http://ggplot2.org/) as visualization tool?
 
