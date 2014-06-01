@@ -14,7 +14,8 @@ The source code does not contain a solution and was written to illustrate the ma
 	* Is SQL, [R] (www.r-project.org), [Python](www.python.org) (includig libraries like [NumPy] (www.numpy.org), [SciPy] (www.scipy.org), [Pandas] (http://pandas.pydata.org)) suitable?
 
 2. Probably the question in 1. can be approached with parallel/distributed computing. However which programming language/technology should be used?
-Is Hadoop
+	* Is a Hadoop distribution the best tool?
 
-3. Which vizualization software would be appropriate? Is [Gnuplot](http://www.gnuplot.info), [matplotlib](http://matplotlib.org) or [D3.js Data-Driven Documents](http://d3js.org) the right tool?
+3. Which visualization software would be appropriate? Is [Gnuplot](http://www.gnuplot.info), [matplotlib](http://matplotlib.org),
+[D3.js Data-Driven Documents](http://d3js.org), [ggplot2](http://ggplot2.org/) the right visualization tool?
 
