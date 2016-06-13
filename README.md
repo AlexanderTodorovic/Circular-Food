@@ -1,4 +1,4 @@
-CircularFood
+Circular Food
 ============
 
 Mathematical puzzle circular food from ACM by Peter Winkler.
